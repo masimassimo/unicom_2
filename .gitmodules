@@ -1,0 +1,4 @@
+[submodule "ABC-Strategie-GitHub/abc_server-ux"]
+	path = ABC-Strategie-GitHub/abc_server-ux
+	url = git@github.com:ABC-Strategie-GitHub/abc_server-ux.git
+	branch = main
